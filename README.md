@@ -1,4 +1,3 @@
-#TEST
 # Secure Banking System
 
 Technology Stack: **Java, SpringMVC, MySQL**
